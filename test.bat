@@ -1,1 +1,1 @@
-start notepad E:\distMatrix.txt
+echo Hello World > hi.txt
