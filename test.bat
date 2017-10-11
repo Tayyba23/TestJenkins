@@ -1,0 +1,1 @@
+start notepad E:\distMatrix.txt
