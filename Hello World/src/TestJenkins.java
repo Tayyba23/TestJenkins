@@ -5,6 +5,7 @@ public class TestJenkins {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World to Jenkins");
 		System.out.println("Direct commit from site");
+		System.out.println("Direct commit from site - test batch file part 1");
 	}
 
 }
