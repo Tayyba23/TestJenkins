@@ -1,7 +1,7 @@
 .LOGON 192.168.74.133/dbc,dbc; 
    DATABASE tduser;
 
-   CREATE TABLE employee_bkup ( 
+   CREATE TABLE JenkinsTest ( 
       EmployeeNo INTEGER, 
       FirstName CHAR(30), 
       LastName CHAR(30), 
