@@ -1,2 +1,2 @@
-echo Hello World > hi.txt
-change sdgsg
+echo Hello World2 > hi.txt
+echo ${BUILD_NUMBER} > hi.txt
